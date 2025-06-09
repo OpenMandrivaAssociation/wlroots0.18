@@ -51,7 +51,6 @@ BuildRequires:  glslang
 
 %package -n %{libname}
 Summary:	Library files for %{name}
-%rename %{oldlibname}
 
 %description -n %{libname}
 A modular Wayland compositor library.
