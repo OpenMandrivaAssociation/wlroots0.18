@@ -3,8 +3,8 @@
 %define devname %mklibname -d wlroots0.18
 
 Name:		wlroots0.18
-Version:	0.18.2
-Release:	2
+Version:	0.18.3
+Release:	1
 Summary:	Compat package wlroots018 - modular Wayland compositor library
 License:	MIT
 URL:		https://gitlab.freedesktop.org/wlroots/wlroots/
